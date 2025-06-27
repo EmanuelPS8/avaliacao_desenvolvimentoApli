@@ -90,7 +90,7 @@ img {
   ul {
     display: flex;
     flex-direction: column;
-    align-items: flex-end; /* Alinha os <li> à direita */
+    align-items: flex-end;
     margin: 0;
     padding: 0;
   }
